@@ -1,4 +1,4 @@
-# To Do List with React
+# To Do List with SpringBoot & React
 
 - BackEnd: Spring Boot
 - FrontEnd: React
